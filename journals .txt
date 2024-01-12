@@ -1,0 +1,16 @@
+ References
+journals :
+--Nature Machine Intelligence
+- arXiv
+research blogs :
+-Two Minute Papers
+-Gradient Central
+
+ podcasts :
+-Lex Fridman
+-Machine Learning Guide 
+-Data Stories
+ 
+redits comunity :
+
+AI for Climate Change energy 
